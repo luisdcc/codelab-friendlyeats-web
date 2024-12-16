@@ -1,54 +1,27 @@
-# Proyecto de Prueba
+# Friendlychat
 
-Este es un proyecto de prueba para demostrar cómo crear un archivo README en Markdown.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
-## Descripción
+## Development server
 
-Este proyecto es una simple demostración de un archivo README. Incluye secciones comunes como Descripción, Instalación, Uso y Contribución.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Instalación
+## Code scaffolding
 
-Para instalar este proyecto, sigue estos pasos:
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/usuario/proyecto-de-prueba.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd proyecto-de-prueba
-    ```
-3. Instala las dependencias:
-    ```bash
-    npm install
-    ```
+## Build
 
-## Uso
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-Para usar este proyecto, ejecuta el siguiente comando:
-```bash
-npm start
-```
+## Running unit tests
 
-## Contribución
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+## Running end-to-end tests
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama:
-    ```bash
-    git checkout -b feature/nueva-funcionalidad
-    ```
-3. Realiza tus cambios y haz commit:
-    ```bash
-    git commit -m "Añadir nueva funcionalidad"
-    ```
-4. Envía tus cambios al repositorio remoto:
-    ```bash
-    git push origin feature/nueva-funcionalidad
-    ```
-5. Abre un Pull Request.
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Licencia
+## Further help
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
